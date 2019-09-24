@@ -1,6 +1,6 @@
 import 'package:clean_arch_example/core/error/exceptions.dart';
 import 'package:clean_arch_example/core/error/failures.dart';
-import 'package:clean_arch_example/core/platform/network_info.dart';
+import 'package:clean_arch_example/core/network/network_info.dart';
 import 'package:clean_arch_example/features/number_trivia/data/model/number_trivia_model.dart';
 import 'package:clean_arch_example/features/number_trivia/data/repository/number_trivia_repository_impl.dart';
 import 'package:clean_arch_example/features/number_trivia/data/source/number_trivia_local_datasource.dart';

@@ -4,7 +4,7 @@ import 'package:meta/meta.dart';
 
 import '../../../../core/error/exceptions.dart';
 import '../../../../core/error/failures.dart';
-import '../../../../core/platform/network_info.dart';
+import '../../../../core/network/network_info.dart';
 import '../../domain/entity/number_trivia.dart';
 import '../../domain/repository/number_trivia_repository.dart';
 import '../source/number_trivia_local_datasource.dart';
