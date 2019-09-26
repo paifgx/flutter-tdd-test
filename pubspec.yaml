@@ -12,7 +12,7 @@ dependencies:
   cupertino_icons: ^0.1.2
 
   # Service locator
-  get_it: ^3.0.0+1
+  get_it: ^3.0.1
   # Bloc for state management
   flutter_bloc: ^0.21.0
   # Value equality
